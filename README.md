@@ -31,3 +31,6 @@ bubblewrap-playground
 ### Demonstrating
 - https://dirkarnez.github.io/video-player/manifest.json
     - https://dirkarnez.github.io/video-player/favicon-32x32.png
+
+
+<!-- Security scan triggered at 2026-09-15 09:32:40 -->
